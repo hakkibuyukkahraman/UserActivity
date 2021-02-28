@@ -1,7 +1,7 @@
 /**
  * Hakki Buyukkahraman
  * v1.0 - 06.02.2021 - Initial version
- * v1.1 - 28.02.2021 - DataStream API used instead of Table API
+ * v1.1 - 28.02.2021 - DataSet API used instead of Table API
  *
  * "Answers" object reads a csv file with columns "date, productId, eventName, userId"
  * and find answers to following questions.
